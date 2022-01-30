@@ -1,0 +1,116 @@
+im not sure how exactly im supposed to insert the p5js file so i will just try every method i can think of.
+embeded: <iframe src="https://editor.p5js.org/insiyam/full/F5kba945b"></iframe>
+full screen: https://editor.p5js.org/insiyam/full/F5kba945b
+edit: https://editor.p5js.org/insiyam/sketches/F5kba945b
+
+the entirety of the code i wrote copy pasted:
+function setup() {
+  createCanvas(600, 800);
+}
+
+function draw() {
+  background(240, 209, 220);
+  noStroke();
+
+  //base layer
+  ellipse(140, 400, 70, 100); //left ear
+  ellipse(460, 400, 70, 100); //right ear
+
+  fill(235, 197, 117); //skin shadow colour
+  triangle(100, 800, 300, 500, 500, 800); //neck
+  fill(255, 218, 140); //skin base colour
+  triangle(100, 800, 300, 500, 480, 800); //neck
+
+  fill(235, 197, 117); //skin shadow colour
+  ellipse(300, 400, 325, 450); //face
+  fill(255, 218, 140); //skin base colour
+  ellipse(296, 393, 321, 435); //face
+
+  //features
+  fill(224, 184, 99); //skin shadow colour 2
+  triangle(280, 475, 300, 400, 320, 475); //nose
+  fill(235, 197, 117); //skin shadow color
+  triangle(280, 475, 300, 400, 312, 475); //nose
+  fill(191, 191, 191); //grey
+  ellipse(290, 465, 6, 6);
+
+  fill(186, 6, 93); //lip base colour
+  triangle(260, 540, 290, 520, 300, 530);
+  triangle(300, 530, 310, 520, 340, 540);
+  triangle(260, 540, 300, 530, 340, 540);
+  fill(140, 1, 69); //lip shadow colour
+  triangle(260, 540, 300, 560, 340, 540); //bottom lip
+
+  //earrings
+  fill(131, 207, 222); //turquoise colour
+  rect(463, 440, 4, 60); //right earring
+  rect(445, 450, 40, 40);
+  arc(465, 518, 45, 45, PI, TWO_PI, CHORD);
+  fill(4, 73, 122); //dark blue
+  rect(455, 460, 20, 20);
+  rect(442.5, 518, 45, 4);
+
+  fill(131, 207, 222); //turquoise colour
+  rect(132, 440, 4, 60); //left earring
+  rect(115, 450, 40, 40);
+  arc(135, 518, 45, 45, PI, TWO_PI, CHORD);
+  fill(4, 73, 122); //dark blue
+  rect(125, 460, 20, 20);
+  rect(112.5, 518, 45, 4);
+
+  fill(191, 191, 191); //grey
+  rect(472, 433, 4, 15); //right earring
+  rect(481, 430, 4, 15); //right earring
+  rect(123, 433, 4, 15); //left earring
+  rect(114, 430, 4, 15); //left earring
+
+  //thoughts
+  fill(4, 73, 122); //dark blue
+  ellipse(200, 200, 80, 80);
+  rect(120, 310, 60, 25);
+  ellipse(275, 330, 70, 25);
+  rect(320, 170, 100, 50);
+
+  fill(242, 161, 56); //orange
+  ellipse(130, 260, 100, 40);
+  rect(410, 200, 70, 70);
+  triangle(420, 330, 440, 360, 460, 300);
+  rect(220, 320, 30, 90);
+  triangle(245, 195, 280, 280, 290, 135);
+
+  fill(222, 146, 202); //light pink
+  rect(385, 290, 20, 80);
+  rect(255, 255, 50, 120);
+  triangle(300, 295, 350, 220, 460, 260);
+  ellipse(200, 350, 80, 120);
+
+  fill(131, 207, 222); //turquoise colour
+  triangle(150, 300, 200, 220, 250, 300);
+  triangle(300, 380, 360, 320, 420, 400);
+  triangle(275, 210, 310, 265, 375, 200);
+
+  fill(186, 6, 93); //lip base colour
+  triangle(125, 220, 150, 260, 165, 235);
+  ellipse(400, 300, 90, 90);
+  ellipse(245, 240, 60, 30);
+
+  fill(140, 1, 69); //lip shadow colour
+  rect(300, 270, 40, 40);
+  rect(200, 270, 20, 40);
+
+  fill(191, 191, 191); //grey
+  ellipse(425, 170, 50, 75);
+  ellipse(445, 290, 60, 30);
+
+  fill(4, 73, 122); //dark blue
+  rect(120, 310, 60, 25);
+  ellipse(275, 330, 70, 25);
+
+  fill(242, 161, 56); //orange
+  triangle(420, 330, 440, 360, 460, 300);
+  rect(220, 320, 30, 90);
+  ellipse(380, 400, 35, 35);
+  ellipse(330, 340, 40, 50);
+
+  fill(255, 218, 140); //skin base colour
+}
