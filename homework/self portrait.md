@@ -9,3 +9,4 @@ screenshot 5: i added the shapes of all my 'thoughts'
 screenshot 6: i added the colours to my 'thoughts' and added aditional piercings and details
 
 final project: i added finishing touches like adjusting shapes and adding a background
+https://editor.p5js.org/insiyam/sketches/F5kba945b
