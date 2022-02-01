@@ -2,6 +2,7 @@
 
  [sketchbook page:](https://github.com/insiyam/intro-to-im/blob/first/media/self%20portrait/20220130_165922.jpg)
  i drew out a sketch of my inital concept first. i wanted to create a whimsical abstract self portrait. i added fun shapes around my head and eyes to portray my tendency to daydream and how i can get lost in my thoughts. i chose to give my portrait fun earrings for aesthetic purposes as well as my personal love for jewelry
+
 [screenshot 1:](https://github.com/insiyam/intro-to-im/blob/first/media/self%20portrait/Screenshot%202022-01-30%20234625.png) first i drew the basic proportions of my portrait
 
 [screenshot 2:](https://github.com/insiyam/intro-to-im/blob/first/media/self%20portrait/Screenshot%202022-01-30%20234707.png) i used triangles to make the features, added fill for colours, and removed the outline to create a simpler aesthetic
