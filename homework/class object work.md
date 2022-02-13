@@ -34,3 +34,5 @@ let cloudx = random(50, 300);
 i know this is because of the recurring nature of the draw loop but i was also not able to put it in set up so i just manually created some clouds for the background. i alsoe addes some extra leaves to the bushes to fill up the negative space.
 
 lastly i cleaned up my code and reorganized it to create my [final work.](https://editor.p5js.org/insiyam/sketches/SQB4oCeKu-)
+
+reflection: overall i am very happy with this piece as i was able to complete my vision! for next time i want to try animating the triangles and other shapes as well. i also need to work on arrays still as i don't quite understand its applications yet. for the class in general, i also want to work more on creating a better documentation on github (exhibit a: me creating this section lol) so i want to learn the markdown feature more and what it can allow me to do. 
