@@ -1,5 +1,5 @@
 # documentation
-### [current project]()
+### [current project?](https://editor.p5js.org/insiyam/sketches/e4JG3tFBa)
 ### progress
 ##### stage 1 : ideas
 i've had multiple ideas for my game but ive had to let go of many of them (including the ones i said in class) because i don't think i have the necessary skills to achieve my goal. i originally really wanted to a jigsaw puzzle since thats my personal favourite game but i have been unable to find a way to create the circle divets in each shape. the only way i could think of was to precut the image in some other software insert each individual piece as an image. i didn't realli like this plan so i decided to do a more rpg/casual style game that would center around creating jam. even though this is a very simplistic idea i feel like it is authetnic to me and follows the coincedtanl nature theme all my projects so far have taken.
