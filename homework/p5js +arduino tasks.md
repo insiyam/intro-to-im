@@ -64,3 +64,6 @@ this example was also a simplification of the in-class work so we created a led 
 
 ### task 3
 upload video
+
+##### process
+since this task was based off of the preexisting code i had to incorporate the arduino code as well. this part was very confusing for me as i am dont completely understand the serial control code
