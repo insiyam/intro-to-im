@@ -62,3 +62,5 @@ void loop() {
 ##### process
 this example was also a simplification of the in-class work so we created a led circuit and then connected it to p5js where it is controlled by ```mouseisPressed```. we tried to advance this a bit more by creating a variable in p5js so that it would be a scale of dimness instead of just between two predertmined states but we were confusedon how to create a variable with ```serial.write``` and if we would need a series of if statements or for loops so we decided to make it simple instead.
 
+### task 3
+upload video
